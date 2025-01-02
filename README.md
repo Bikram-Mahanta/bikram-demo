@@ -1,4 +1,4 @@
 # bikram-demo
 This is my first Git Repository.
 <br>
-Author - Bikram Mahanta
+Author - Bikram Mahanta (Python)
